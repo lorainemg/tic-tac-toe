@@ -53,6 +53,9 @@ web_modules/
 
 # Optional eslint cache
 .eslintcache
+.idea
+*:Zone.Identifier
+.sesskey
 
 # Optional stylelint cache
 .stylelintcache
